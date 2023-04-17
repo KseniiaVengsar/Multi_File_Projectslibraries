@@ -26,5 +26,5 @@ int division(int pole, int pole_2) {
 }
 void expon(int pole, int pole_2) {
 
-    std::cout << pole << " в степени " << pole_2 << " = " << pow(pole, pole_2);
+    std::cout << pole << " РІ СЃС‚РµРїРµРЅРё " << pole_2 << " = " << pow(pole, pole_2);
 }
